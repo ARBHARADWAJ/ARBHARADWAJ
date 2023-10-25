@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xit7qPxUVUKobp9lcaPKTzGABALumtfH/view?usp=sharing](https://drive.google.com/file/d/1xit7qPxUVUKobp9lcaPKTzGABALumtfH/view?usp=sharing)
 
-- ⚡ Fun fact **In my engineering i hated JS a lot in my first year, later on I understood its functionality and its usage,not I feel, I am an artist in js and working on many frameworks**
+- ⚡ Fun fact **In my engineering I hated JS a lot in my first year, later on I understood its functionality and its usage,not I feel, I am an artist in js and working on many frameworks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
