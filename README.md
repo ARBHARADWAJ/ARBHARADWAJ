@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm AMMANAMANCHI RAVISANKAR BHARADWAJ</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<!--
 <p align="center">
   <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1950&q=80" width="100%" alt="Banner" />
-</p>
+</p>-->
 
 - 🔭 I’m currently working on leveling up my skills in **Frontend and Backend using Java and JavaScript tech stacks**, along with exploring **Generative AI** technologies.
 
