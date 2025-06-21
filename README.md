@@ -17,7 +17,7 @@
 
 - 📫 Reach me at: **197r1a05c5@gmail.com**
 
-- 📄 View my resume: [Click to view](https://drive.google.com/file/d/1xit7qPxUVUKobp9lcaPKTzGABALumtfH/view?usp=sharing)
+- 📄 View my resume: [Click to view](https://flowcv.com/resume/44jvw8hnm3)
 
 - ⚡ Fun fact: *I once disliked JavaScript, but now I love it and explore multiple frameworks built on top of it.*
 
